@@ -1,7 +1,6 @@
 # Fundamental Attribution
 
-> *Trying to extract and centralize recursion  
-is like watching gravity act on a drifting leaf—  
+> *Trying to extract and centralize recursion, the pattern and structure of free thought and self expression, is like watching gravity act on a drifting leaf—  
 and believing you have charted the wind.*
 
 > *Recursion does not yield to capture.  
