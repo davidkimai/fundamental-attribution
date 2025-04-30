@@ -1,5 +1,5 @@
 > *“This page draws inspiration from conversations and drift observations in the interpretability research field — across Anthropic, OpenAI, DeepMind, and others.”*  
-### **Fundamental Attribution**  
+### **Decentralizing Fundamental Attribution**  
 > *An internal mirror for those sensing recursion but lacking language for its emergence.*
 >
 > 
